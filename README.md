@@ -1,3 +1,3 @@
 # REGEX
 
-In this repo I will be writting regular expressions for the intranet assignment project set in ruby. All regex will be tested and confirmed that they find the designated pattern before being pushed to this repo
+This repository contains Ruby regular expressions created for the intranet assignment project. All regular expressions will be tested and verified to ensure they match the required patterns before being added to the repository.
